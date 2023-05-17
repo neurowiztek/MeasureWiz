@@ -1,2 +1,2 @@
-# MeasureWiz.github.io
+# MeasureWiz
 MeasureWiz에 관한 설명
